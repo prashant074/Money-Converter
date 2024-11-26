@@ -1,7 +1,3 @@
-Here's a concise explanation for your currency converter script:
-
----
-
 # Currency Converter Script
 
 This Python script demonstrates a simple **currency conversion tool** using predefined exchange rates. The program allows users to input an amount and convert it between supported currencies: `GBP`, `USD`, `EUR`, `BRL`, `JPY`, and `TRY`.
